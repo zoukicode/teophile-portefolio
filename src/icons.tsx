@@ -27,7 +27,6 @@ import {
   Brush2 as _Brush2,
   Monitor as _Monitor,
   Whatsapp as _Whatsapp,
-  Instagram as _Instagram,
   Facebook as _Facebook,
   type Icon,
   type IconProps,
@@ -62,7 +61,6 @@ export const Heart = withDefaults(_Heart)
 export const Brush2 = withDefaults(_Brush2)
 export const Monitor = withDefaults(_Monitor)
 export const Whatsapp = withDefaults(_Whatsapp)
-export const Instagram = withDefaults(_Instagram)
 export const Facebook = withDefaults(_Facebook)
 
 export type { Icon, IconProps }

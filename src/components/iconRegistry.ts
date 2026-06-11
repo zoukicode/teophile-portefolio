@@ -9,11 +9,11 @@ import {
   Brush2,
   Monitor,
   Whatsapp,
-  Instagram,
   Facebook,
   Sms,
   type Icon,
 } from '../icons'
+import Tiktok from '../TiktokIcon'
 
 export const iconRegistry: Record<string, Icon> = {
   Designtools,
@@ -23,7 +23,7 @@ export const iconRegistry: Record<string, Icon> = {
   Brush2,
   Monitor,
   Whatsapp,
-  Instagram,
+  Tiktok,
   Facebook,
   Sms,
 }

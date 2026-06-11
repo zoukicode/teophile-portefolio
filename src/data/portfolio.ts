@@ -47,16 +47,16 @@ export const profile = {
   tagline: 'Je donne vie à vos idées par la conception graphique.',
   location: 'Lomé, Togo',
   email: 'zibotheophile350@gmail.com',
-  phone: '+228 00 00 00 00',
+  phone: '+228 70889781 / 91201106',
   bio: [
     "Né à Lomé, j'ai obtenu mon Bac II au terme de mon parcours scolaire. Passionné par le graphisme, j'ai suivi une formation de deux ans dans une entreprise spécialisée dans la conception de maquettes et les travaux d'impression — une base solide qui guide aujourd'hui chacune de mes créations.",
     "Avec cinq bonnes années d'expérience dans le domaine, j'accompagne entreprises et particuliers : logos, affiches publicitaires, cartes de visite, faire-part et personnalisation textile.",
     "Mon ambition : développer le design au Togo, créer des clubs de design et organiser des conférences et compétitions pour faire grandir toute une communauté de créatifs.",
   ],
   socials: [
-    { icon: 'Whatsapp', label: 'WhatsApp', href: 'https://wa.me/228' },
-    { icon: 'Instagram', label: 'Instagram', href: '#' },
-    { icon: 'Facebook', label: 'Facebook', href: '#' },
+    { icon: 'Whatsapp', label: 'WhatsApp', href: 'https://wa.me/22870889781' },
+    { icon: 'Tiktok', label: 'Tiktok', href: 'https://www.tiktok.com/@impactjesuschrist?is_from_webapp=1&sender_device=pc' },
+    // { icon: 'Facebook', label: 'Facebook', href: '#' },
     { icon: 'Sms', label: 'Email', href: 'mailto:zibotheophile350@gmail.com' },
   ],
 }
