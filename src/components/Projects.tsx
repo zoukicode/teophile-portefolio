@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import { SearchNormal1, CloseCircle, ArrowLeft2, ArrowRight2 } from 'iconsax-react'
+import { SearchNormal1, CloseCircle, ArrowLeft2, ArrowRight2 } from '../icons'
 import { projects, categories, type Project } from '../data/portfolio'
 import './Projects.css'
 

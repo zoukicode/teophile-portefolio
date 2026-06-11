@@ -13,7 +13,7 @@ import {
   Facebook,
   Sms,
   type Icon,
-} from 'iconsax-react'
+} from '../icons'
 
 export const iconRegistry: Record<string, Icon> = {
   Designtools,

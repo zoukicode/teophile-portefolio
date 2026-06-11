@@ -108,6 +108,8 @@
   height: 100%;
   object-fit: cover;
   object-position: top center;
+  transform: scale(1.14);
+  transform-origin: center 22%;
 }
 
 .hero__chip {

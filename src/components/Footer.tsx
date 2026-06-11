@@ -1,4 +1,4 @@
-import { ArrowUp2 } from 'iconsax-react'
+import { ArrowUp2 } from '../icons'
 import { profile } from '../data/portfolio'
 import './Footer.css'
 

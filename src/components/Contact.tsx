@@ -1,4 +1,4 @@
-import { Sms, Call, Location, ArrowRight } from 'iconsax-react'
+import { Sms, Call, Location, ArrowRight } from '../icons'
 import { profile } from '../data/portfolio'
 import { getIcon } from './iconRegistry'
 import './Contact.css'

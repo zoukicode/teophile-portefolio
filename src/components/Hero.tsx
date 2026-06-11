@@ -1,4 +1,4 @@
-import { ArrowRight, Star1, Location } from 'iconsax-react'
+import { ArrowRight, Star1, Location } from '../icons'
 import { profile, stats } from '../data/portfolio'
 import profilePhoto from '../assets/portfolio/profile.png'
 import './Hero.css'
@@ -20,7 +20,7 @@ export default function Hero() {
           </h1>
 
           <p className="hero__desc">
-            Designer graphique basé à {profile.location}, j'accompagne marques et
+            Infographiste basé à {profile.location}, j'accompagne marques et
             particuliers : logos, affiches, cartes de visite, faire-part et
             personnalisation textile — avec créativité et exigence.
           </p>
@@ -53,7 +53,7 @@ export default function Hero() {
           <div className="hero__chip">
             <Location size={18} variant="Bold" />
             <div>
-              <strong>{profile.location}</strong>
+              <strong>Infographiste à Lomé</strong>
               <span>Disponible pour vos projets</span>
             </div>
           </div>

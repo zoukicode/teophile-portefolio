@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { HambergerMenu, CloseCircle } from 'iconsax-react'
+import { HambergerMenu, CloseCircle } from '../icons'
 import { profile } from '../data/portfolio'
 import './Navbar.css'
 

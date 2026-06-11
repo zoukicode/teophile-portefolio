@@ -1,10 +1,10 @@
-import { TickCircle, Award, Teacher } from 'iconsax-react'
+import { TickCircle, Award, Teacher } from '../icons'
 import { profile } from '../data/portfolio'
 import profilePhoto from '../assets/portfolio/profile.png'
 import './About.css'
 
 const highlights = [
-  { icon: Award, text: "5 ans d'expérience en design graphique" },
+  { icon: Award, text: "5 ans d'expérience en infographie" },
   { icon: Teacher, text: 'Formation maquette & impression (2 ans)' },
   { icon: TickCircle, text: 'Du concept à la livraison print & web' },
 ]
@@ -15,7 +15,7 @@ export default function About() {
       <div className="container about__inner">
         <div className="about__media">
           <div className="about__frame">
-            <img src={profilePhoto} alt={`${profile.name}, designer graphique`} />
+            <img src={profilePhoto} alt={`${profile.name}, infographiste`} />
           </div>
           <div className="about__exp">
             <strong>5+</strong>
