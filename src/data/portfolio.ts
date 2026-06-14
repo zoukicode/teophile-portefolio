@@ -12,6 +12,8 @@ import memorialPortrait from '../assets/portfolio/memorial-portrait.jpeg'
 import tablierChef from '../assets/portfolio/tablier-chef.jpeg'
 import tablierFastfood from '../assets/portfolio/tablier-fastfood.jpeg'
 import tablierFoodtray from '../assets/portfolio/tablier-foodtray.jpeg'
+import logoBking from '../assets/portfolio/logo-bking-design.jpeg'
+import flyerPromoOnly from '../assets/portfolio/flyer-promo-only.jpeg'
 
 export type Category =
   | 'Logo & Identité'
@@ -220,6 +222,20 @@ export const projects: Project[] = [
     client: 'Royal Service',
     category: 'Logo & Identité',
     image: logoRoyal,
+  },
+  {
+    id: 'logo-bking',
+    title: 'Logo B-King Design',
+    client: 'B-King Design',
+    category: 'Logo & Identité',
+    image: logoBking,
+  },
+  {
+    id: 'flyer-promo-only',
+    title: 'Flyer promo « Only La Boss »',
+    client: 'Only La Boss',
+    category: 'Flyer & Affiche',
+    image: flyerPromoOnly,
   },
   {
     id: 'carte-royal',
